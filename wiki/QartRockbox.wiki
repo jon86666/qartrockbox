@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This application is developed in Qt 4.6.3 under Kubuntu 10.04. So you need install "libqt4-dev".
+
+
+
+
+= Details =
+
+Steps: 
+   * sudo apt-get install libqt4-dev 
+   * cd /QartRockbox/ 
+   * qmake make 
+   * ./QartRockbox
+
+Soon project for Windows
