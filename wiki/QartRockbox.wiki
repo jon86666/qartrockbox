@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This application is developed in Qt 4.6.3 under Kubuntu 10.04. So you need install "libqt4-dev".
+This application is developed in Qt 4.6.3 under Kubuntu 10.04 using taglib. So you need install "libqt4-dev" and "libtag1-dev".
 
 
 
@@ -10,7 +10,7 @@ This application is developed in Qt 4.6.3 under Kubuntu 10.04. So you need insta
 = Details =
 
 Steps: 
-   * sudo apt-get install libqt4-dev 
+   * sudo apt-get install libqt4-dev libtag1-dev
    * cd /QartRockbox/ 
    * qmake make 
    * ./QartRockbox
