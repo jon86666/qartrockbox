@@ -1,0 +1,10 @@
+# Introduction #
+
+This application is developed in Qt 4.6.3 using taglib and libflac. So you need install "libqt4-dev", "libtag1-dev", "libflac++-dev" and "libflac-dev"
+. For Support MP4 need AtomicParsley.
+
+Compile Linux
+  * cd /QartRockbox
+  * qmake
+  * make
+  * ./QartRockbox
